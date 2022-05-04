@@ -1,0 +1,41 @@
+body
+{
+    background-image: url(../img/fondo.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: "Roboto";
+	font-size: 13px;
+}
+
+
+p::first-letter
+{
+    font-size: 65px;
+}
+
+hr
+{
+    color: red;
+}
+
+h1{
+    color: blanchedalmond;
+    font-size: 60px;
+}
+
+h2{
+    color: whitesmoke;
+    font-size: 50px;
+}
+
+p{
+    color: aqua;
+    font-size: 40px;
+}
+
+ul
+{
+    color: aquamarine;
+    font-size: 40px;
+}
